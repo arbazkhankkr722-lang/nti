@@ -16,11 +16,14 @@
   "author": "NewTech Institute",
   "license": "MIT",
   "dependencies": {
+    "@google/genai": "^1.38.0",
+    "lucide-react": "^0.468.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.0.0",
-    "lucide-react": "^0.468.0",
-    "recharts": "^2.13.0",
-    "@google/genai": "^1.38.0"
+    "recharts": "^2.13.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
   }
 }
