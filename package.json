@@ -1,0 +1,25 @@
+
+{
+  "name": "newtech-institute-zhob",
+  "version": "1.0.0",
+  "description": "Official public website and student management portal for NewTech Institute Zhob.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "education",
+    "zhob",
+    "management-system"
+  ],
+  "author": "NewTech Institute",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.0",
+    "lucide-react": "^0.468.0",
+    "recharts": "^2.13.0",
+    "@google/genai": "^1.38.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "NewTech Institute Zhob - Portal",
+  "description": "The official student management and information portal for NewTech Institute Zhob, featuring academic tracking, attendance management, and campus resources.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
